@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Sailing the Grand Line: One Piece Adventure",
+        "content": "Embark on the adventure of a lifetime with the One Piece Grand Line Adventure! Explore a life-sized replica of the Thousand Sunny, visit iconic locations like Water 7 and Alabasta, and experience thrilling 4D effects that bring the world of One Piece to life. Did you know Eiichiro Oda designed the Straw Hat flag as a personal signature of Luffy's freedom-loving spirit? Don\u2019t miss the chance to meet the Straw Hat crew through interactive holograms!",
+        "author": "Eiichiro Oda",
+        "date": "2024-11-15",
+        "image": "assets\/img\/one-piece-adventure.jpg"
+    },
+    {
+        "title": "Wall Maria Defense: Attack on Titan Coaster",
+        "content": "Join the Scout Regiment and defend Wall Maria from Titans in this heart-pounding roller coaster experience. The ride features Titan-sized animatronics and a gripping storyline that makes you feel like you\u2019re part of the battle. Fun fact: Hajime Isayama created the Titans based on nightmares he had as a teenager. Immerse yourself in the chaotic world of Attack on Titan and brace yourself for the ultimate drop!",
+        "author": "Hajime Isayama",
+        "date": "2024-11-18",
+        "image": "assets\/img\/attack-on-titan-coaster.jpg"
+    },
+    {
+        "title": "The Hidden Leaf Village: Naruto Training Ground",
+        "content": "Train like a true ninja in the Hidden Leaf Village! Test your skills at the Chunin Exam obstacle course, throw kunai in the training arena, and enjoy a bowl of Ichiraku Ramen. Did you know Masashi Kishimoto based the village's landscape on his childhood hometown? The virtual reality experience lets you battle alongside Naruto, Sasuke, and Sakura against legendary foes!",
+        "author": "Masashi Kishimoto",
+        "date": "2024-11-20",
+        "image": "assets\/img\/naruto-village.jpg"
+    },
+    {
+        "title": "Infinity Train Ride: Demon Slayer Saga",
+        "content": "Step aboard the Infinity Train and relive the breathtaking Demon Slayer movie! With state-of-the-art effects, the ride recreates Tanjiro's fight against Enmu and Akaza, immersing you in the emotional depth of Koyoharu Gotouge's masterpiece. Did you know Demon Slayer: Mugen Train broke box office records worldwide, becoming the highest-grossing anime film of all time? Get ready to face your demons!",
+        "author": "Koyoharu Gotouge",
+        "date": "2024-11-22",
+        "image": "assets\/img\/demon-slayer-train.jpg"
+    },
+    {
+        "title": "UA Hero Training Camp: My Hero Academia",
+        "content": "Discover your quirk and become the next great hero at UA High\u2019s Hero Training Camp! Participate in hero simulations with All Might, Deku, and Bakugo, and earn your own hero license. Interesting fact: Kohei Horikoshi based several quirks on animals he observed during his childhood. Don\u2019t miss the Pro Hero showcase at the arena, where you\u2019ll see heroes in action!",
+        "author": "Kohei Horikoshi",
+        "date": "2024-11-25",
+        "image": "assets\/img\/my-hero-academia.jpg"
+    },
+    {
+        "title": "Test Title",
+        "content": "Updating the Content",
+        "author": "Sushant",
+        "date": "2024-12-08"
+    }
+]
